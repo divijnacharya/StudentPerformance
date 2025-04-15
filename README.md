@@ -1,10 +1,10 @@
 # StudentPerformance
 
-Contacts:9097219122  
+Contact:9097219122  
 
 Divij Acharya 
 
-acharyadivij23@gmail.com
+acharyadivij@gmail.com
 
 Status:In progress
 

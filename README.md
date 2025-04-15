@@ -1,13 +1,17 @@
 # StudentPerformance
 
 Contacts:9097219122  
+
 Divij Acharya 
+
 acharyadivij23@gmail.com
+
 Status:In progress
 
 Project desciption:
 
 placeholder
+
 Navigating this repo:
 
 config folder : Contains the any compute configuration files, e.g., JSON files with cluster configurations.
@@ -21,6 +25,9 @@ In each folder, start by reviewing its README file to understand the purpose and
 Related project materials:
 
 Links to decks:
+
 2025/04/22: Project pitch deck (link)
+
 Links to papers:
+
 Presented TITLE at XYZ on DATE
